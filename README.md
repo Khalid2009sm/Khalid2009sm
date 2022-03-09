@@ -59,10 +59,9 @@ Programmer | Content Creator | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
-[website]: https://TechHelpBD.com
+[website]: https://
 [facebook]: https://facebook.com/khalid.vau.shaifullah
-[twitter]: https://twitter.com/mahbubdev
+[twitter]: https://twitteev
 [youtube]: https://youtube.com/KhalidTechBd
-[instagram]: https://instagram.com/mahbubdev/
-[linkedin]: https://linkedin.com/in/mahbubdev
-[telegram]: https://t.me/TechHelpBangladesh
+[instagram]: https://
+
