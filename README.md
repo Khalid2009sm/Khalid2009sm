@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm S.M Khalid Shaifullah</h1>
+<h1 align="center">Hi <img src="https://github.com/Khalid2009sm/Khalid2009sm/blob/main/Wave.gif" height="55px" width="55px">, I'm S.M Khalid Shaifullah</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Content Creator | Learner
@@ -60,9 +60,9 @@ Programmer | Content Creator | Learner
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
 [website]: https://TechHelpBD.com
-[facebook]: https://facebook.com/MahbubDev
+[facebook]: https://facebook.com/khalid.vau.shaifullah
 [twitter]: https://twitter.com/mahbubdev
-[youtube]: https://youtube.com/TechHelpBangladesh
+[youtube]: https://youtube.com/KhalidTechBd
 [instagram]: https://instagram.com/mahbubdev/
 [linkedin]: https://linkedin.com/in/mahbubdev
 [telegram]: https://t.me/TechHelpBangladesh
