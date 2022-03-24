@@ -44,7 +44,7 @@ Programmer | Content Creator | Learner
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=htr-tecg.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=htr-tech.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
 [![Khalid's github activity graph](https://activity-graph.herokuapp.com/graph?username=Khalid2009sm&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
