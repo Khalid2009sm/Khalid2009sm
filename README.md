@@ -1,13 +1,13 @@
-<h1 align="center">Hi <img src="https://github.com/Khalid2009sm/Khalid2009sm/blob/main/Wave.gif" height="55px" width="55px">, I'm S.M Khalid Shaifullah</h1>
+<h1 align="center">Hi <img src="https://github.com/Khalid2009sm/Khalid2009sm/blob/main/Wave.gif" height="55px" width="55px">, I'm Khalid Shaifullah</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Content Creator | Learner
 
 ?></h3>
 
-- 🔭 I’m currently working on **Python and Cloning Tools Making**
+- 🔭 I’m currently working on **python script**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **python**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -19,13 +19,11 @@ Programmer | Content Creator | Learner
 
 ### Connect with me:
 
-[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kazi Mahbubur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="khalid224466.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="KHALID SHAIFULLAH | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
+[<img align="left" alt="KHALID SHAIFULLAH | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="KHALID SHAIFULLAH | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
+[<img align="left" alt="KHALID SHAIFULLAH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -46,10 +44,10 @@ Programmer | Content Creator | Learner
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=NoobMahbub.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Khalid2009sm.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=NoobMahbub&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
+[![Khalid's github activity graph](https://activity-graph.herokuapp.com/graph?username=Khalid2009sm&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -59,9 +57,8 @@ Programmer | Content Creator | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
-[website]: https://
-[facebook]: https://facebook.com/khalid.vau.shaifullah
-[twitter]: https://twitteev
-[youtube]: https://youtube.com/KhalidTechBd
-[instagram]: https://
-
+[website]: https://khalid224466.blogspot.com
+[facebook]: https://facebook.com/khalid.vau.420
+[youtube]: https://youtube.com/c/KhalidTechBd360
+[instagram]: https://instagram.com/khalid_vau_2009/
+[telegram]: https://t.me/Khalid114433
