@@ -62,3 +62,8 @@ Programmer | Content Creator | Learner
 [youtube]: https://youtube.com/c/KhalidTechBd360
 [instagram]: https://instagram.com/khalid_vau_2009/
 [telegram]: https://t.me/Khalid114433
+# ABOUT ME ➤➤➤
+<li> 😇 <i> MUSLIM</i></li>
+<li> 🌚 <i>BORNED SINGLE</i></li>
+<li> 💠 <i>STUDENT </i></li>
+<li> 🤠 <i>FOCUSING ON ACADEMIC STUDY AND PYTHON </i></li><br>
