@@ -56,14 +56,14 @@ Programmer | Content Creator | Learner
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NoobMahbub&show_icons=true&locale=en&layout=compact" alt="KHALID SHAIFULLAH" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Khalid2009sm&show_icons=true&locale=en" alt="KHALID SHAIFULLAH" /></p>
+# ABOUT ME ➤➤➤
+<li> 😇 <i> MUSLIM</i></li>
+<li> 🌚 <i>BORNED SINGLE</i></li>
+<li> 💠 <i>STUDENT </i></li>
+<li> 🤠 <i>FOCUSING ON ACADEMIC STUDY AND PYTHON </i></li><br>
 
 [website]: https://khalid224466.blogspot.com
 [facebook]: https://facebook.com/khalid.vau.420
 [youtube]: https://youtube.com/c/KhalidTechBd360
 [instagram]: https://instagram.com/khalid_vau_2009/
 [telegram]: https://t.me/Khalid114433
-# ABOUT ME ➤➤➤
-<li> 😇 <i> MUSLIM</i></li>
-<li> 🌚 <i>BORNED SINGLE</i></li>
-<li> 💠 <i>STUDENT </i></li>
-<li> 🤠 <i>FOCUSING ON ACADEMIC STUDY AND PYTHON </i></li><br>
