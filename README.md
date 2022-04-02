@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=IT'S+A+BRAND+KHALID+SHAIFULLAH+BROTHER+)](https://git.io/typing-svg) 
+ 
 <h1 align="center">Hi <img src="https://github.com/Khalid2009sm/Khalid2009sm/blob/main/Wave.gif" height="55px" width="55px">, I'm Khalid Shaifullah</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
