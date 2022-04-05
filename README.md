@@ -58,6 +58,7 @@ Programmer | Content Creator | Learner
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=htr-tech&show_icons=true&locale=en&layout=compact" alt="KHALID SHAIFULLAH" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Khalid2009sm&show_icons=true&locale=en" alt="KHALID SHAIFULLAH" /></p>
+<br />
 ### ABOUT ME ➤➤➤
 <li> 😇 <i> MUSLIM</i></li>
 <li> 🌚 <i>BORNED SINGLE</i></li>
