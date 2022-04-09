@@ -59,11 +59,14 @@ Programmer | Content Creator | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Khalid2009sm&show_icons=true&locale=en" alt="KHALID SHAIFULLAH" /></p>
 <br />
-<h3 ABOUT ME ➤➤➤
-<li> 😇 <i> MUSLIM</i></li>
-<li> 🌚 <i>BORNED SINGLE</i></li>
-<li> 💠 <i>STUDENT </i></li>
-<li> 🤠 <i>FOCUSING ON ACADEMIC STUDY AND PYTHON </i></li><br>
+<h3><b><i>🤠 About me :</i></b></h3>
+<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
+<li> 😇 <i>Muslim</i></li>
+<li> 😐 <i>High School Student</i></li>
+<li> 😪 <i>Love Sleeping</i></li>
+<li> 💔 <i>Born Single</i></li>
+<li> 🐍 <i>Trying to learn Python</i></li>
+<li> 🤐 <i>Aim : Become a Doctor🙈</i></li>
 
 [website]: https://khalid224466.blogspot.com
 [facebook]: https://facebook.com/khalid.vau.420
