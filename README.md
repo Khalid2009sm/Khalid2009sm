@@ -73,9 +73,3 @@ Programmer | Content Creator | Learner
 [youtube]: https://youtube.com/c/KhalidTechBd360
 [instagram]: https://instagram.com/khalid_vau_2009/
 [telegram]: https://t.me/Khalid114433
-
-<h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/Khalid2009sm"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://fb.com/Khalid.Vau.143"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://m.me/Khalid.Vau.143"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-<a href="https://www.instagram.com/Khalid114433"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
