@@ -54,9 +54,6 @@ Programmer | Content Creator | Learner
  
 ![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Khalid2009sm"><img width=550 src="https://github-profile-trophy.vercel.app/?username=htr-tech&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
 
